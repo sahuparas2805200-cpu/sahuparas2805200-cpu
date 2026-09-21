@@ -87,18 +87,6 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 - Data Analysis with AI
 - AI for Business Insights
 
-### 💻 Development & Backend
-
-- FastAPI
-- PostgreSQL
-- REST APIs
-- Git
-- GitHub
-- Docker
-- HTML
-- CSS
-- JavaScript
-
 ---
 
 ## 📌 Featured Projects
