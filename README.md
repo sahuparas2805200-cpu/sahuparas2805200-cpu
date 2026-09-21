@@ -190,6 +190,6 @@ Data-Driven Decisions
 
 ---
 
-##⚡Currently Building
+## ⚡Currently Building
 My analytics portfolio across Excel, SQL, Power BI, and Python, with a focus on solving practical business problems using data.
 
